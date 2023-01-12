@@ -2,8 +2,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 125px;
+    padding-right: 125px;
     background-color: #1F2937;
 }
 
@@ -28,13 +28,24 @@ nav .navigation {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 67px 125px 75px 125px;
     background-color: #1F2937;
 }
 
-.hero-txt {
-font-weight: bolder;
+.hero-main-txt {
+    font-weight: bolder;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.hero-subtext {
+    color: #e5e7eb;
+}
+
+.hero-image {
+    background-color: #e5e7eb;
+    width: 500px;
+    height: 200px;
 }
 
 .signup {
