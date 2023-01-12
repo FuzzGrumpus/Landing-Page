@@ -1,0 +1,46 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #1F2937;
+}
+
+nav .navigation {
+    display: flex;
+    list-style: none;
+}
+
+.navigation .link {
+    padding: 8px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header-logo {
+    font-weight: bold;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #1F2937;
+}
+
+.hero-txt {
+font-weight: bolder;
+}
+
+.signup {
+
+}
+
+.hero-image {
+
+}
